@@ -1,10 +1,3 @@
-// --== CS400 Project One File Header ==--
-// Name: Adam Lewandowski
-// CSL Username: alewandowski
-// Email: aclewandowski@wisc.edu
-// Lecture #: 002 @1:00pm
-// Notes to Grader: <any optional extra notes to your grader>
-
 import java.util.NoSuchElementException;
 
 public interface MapADT <KeyType, ValueType> {
